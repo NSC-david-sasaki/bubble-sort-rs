@@ -22,7 +22,7 @@ cd bubble-sort-rs
 4. View the documentation:
 The report is best enjoyed as html. Use your favorite browser to open `book/book/index.html` for the web version of the report.
 
-If you prefer not to install any tools, you may view the markdown source at `book/book/src/` `SUMMARY.MD` is the table of contents to navigate to other pages.
+If you prefer not to install any tools, you may view the markdown source at `book/src/` `SUMMARY.MD` is the table of contents to navigate to other pages.
 
 
    - For local development (with live reload):
