@@ -1,0 +1,13 @@
+# rustfmt.toml
+
+# This file contains configuration settings for Rustfmt.
+# Adjust the settings below to customize the formatting of your Rust code.
+
+edition = "2021"
+max_width = 100
+use_small_heuristics = "Max"
+hard_tabs = false
+tab_spaces = 4
+fn_call_width = "Max"
+chain_width = "Max"
+struct_field_indent = "Block"

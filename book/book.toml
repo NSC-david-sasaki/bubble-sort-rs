@@ -1,0 +1,5 @@
+[book]
+authors = ["David Sasaki"]
+language = "en"
+src = "src"
+title = "Bubble Sort"

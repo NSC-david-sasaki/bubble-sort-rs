@@ -1,0 +1,18 @@
+[package]
+name = "bubble-sort-rs"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "bubble_sort_rs"
+path = "src/lib.rs"
+
+[dependencies]
+rand = "0.9.1"
+
+[dev-dependencies]
+criterion = "0.6.0"
+
+[[bench]]
+name = "sort_benchmark"
+harness = false
